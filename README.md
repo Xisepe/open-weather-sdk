@@ -38,6 +38,8 @@ dependencies {
 
 ### Option 2: JitPack Dependency
 
+For complete documentation follow: **[https://jitpack.io/#Xisepe/open-weather-sdk/1.0.0](https://jitpack.io/#Xisepe/open-weather-sdk/1.0.0)**
+
 For Gradle add JitPack to your Gradle repositories:
 
 ```kotlin
