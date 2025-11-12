@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"ru.golubev.openweathersdk"},{"l":"ru.golubev.openweathersdk.exception"},{"l":"ru.golubev.openweathersdk.internal"},{"l":"ru.golubev.openweathersdk.model"}]
